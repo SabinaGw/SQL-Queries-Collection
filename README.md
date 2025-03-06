@@ -1,8 +1,8 @@
 # SQL-Queries-Collection
 
-## Hi there!
+## Hello and thanks for stopping by!
 
-Welcome to my SQL Queries Collection, showcasing my work as a data analyst. This repository features a range of SQL queries designed for data analysis, manipulation, and optimization, highlighting different techniques and solutions for various data challenges. This collection is a key part of my professional portfolio.
+Welcome to my collection of SQL queries! These are examples of questions I've had the opportunity to create both in my work and while developing projects for my portfolio. I'm excited to share them and hope they'll be useful or inspiring for others!
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Welcome to my SQL Queries Collection, showcasing my work as a data analyst. This
 
 ## Introduction
 
-As a data analyst, I have extensive experience in data extraction, transformation, and analysis. This repository includes a selection of SQL queries developed to tackle various data-related tasks, from simple data retrieval to complex data transformations and performance enhancements.
+As an analyst working in a finance company, I have experience in data extraction, transformation, and analysis. This repository includes some of the SQL queries I’ve worked on, ranging from basic data retrieval to practical data tasks.
 
 ## Queries
 
