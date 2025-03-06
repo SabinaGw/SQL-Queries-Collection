@@ -2,7 +2,7 @@
 
 ## Hello and thanks for stopping by!
 
-Welcome to my collection of SQL queries! These are examples of questions I've had the opportunity to create both in my work and while developing projects for my portfolio. I'm excited to share them and hope they'll be useful or inspiring for others!
+Welcome to my collection of SQL queries. These are examples of questions I've had the opportunity to create both in my work and while developing projects for my portfolio. I'm happy to share them with you!
 
 ## Table of Contents
 
